@@ -1,5 +1,5 @@
 ---
-title: The Intersection of Low-Code/No-Code and Containerization/Kubernetes
+title: The Intersection of Low-Code / No-Code and Containerization / Kubernetes
 author: Zack Brady (Field Engineer) and Kevin Pence (Account Executive)
 contact: zack.brady@ranchergovernment.com and kevin.pence@ranchergovernment.com
 ---
